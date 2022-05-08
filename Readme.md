@@ -1,4 +1,5 @@
 [Открыть проект](https://alekseykurylev.github.io/44418-gllacy-33/)
+
 <img width="400" alt="Сертификат" src="https://raw.githubusercontent.com/alekseykurylev/44418-gllacy-33/master/certificate.jpg">
 
 # Личный проект «Глейси»
