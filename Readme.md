@@ -1,4 +1,4 @@
-Успешная защита проекта 10 марта 2022.
+Успешная защита проекта 10 марта 2022 г.
 
 <img width="400" alt="Сертификат" src="https://raw.githubusercontent.com/alekseykurylev/44418-gllacy-33/master/certificate.jpg">
 
