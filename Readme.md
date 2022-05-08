@@ -1,4 +1,4 @@
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037747-a8e89422-7bad-11e7-819d-bca9f4c1de18.jpg">
+<img width="400" alt="" src="https://github.com/alekseykurylev/44418-gllacy-33/blob/master/certificate.jpg">
 
 # Личный проект «Глейси»
 
